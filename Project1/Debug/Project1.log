@@ -1,0 +1,10 @@
+﻿  main_106hw8.cpp
+  s1063322_Enigma Base.cpp
+D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Project1\s1063322_Enigma Base.cpp(50): warning C4267: 'return': 將 'size_t' 轉換為 'char'，資料可能遺失
+  s1063322_Enigma.cpp
+  正在產生程式碼...
+D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Project1\s1063322_Enigma.cpp(55): warning C4715: 'Rotor::Forward': 不是所有控制路徑都傳回值
+D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Project1\s1063322_Enigma.cpp(74): warning C4715: 'Rotor::Backward': 不是所有控制路徑都傳回值
+D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Project1\s1063322_Enigma.cpp(135): warning C4715: 'Special_Rotor::Forward': 不是所有控制路徑都傳回值
+D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Project1\s1063322_Enigma.cpp(152): warning C4715: 'Special_Rotor::Backward': 不是所有控制路徑都傳回值
+  Project1.vcxproj -> D:\大學檔案\大一檔案\程設檔案(未完成)\Enigma_Student_hw7\Project1\Debug\Project1.exe
